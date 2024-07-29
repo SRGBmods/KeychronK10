@@ -17,4 +17,4 @@
  */
 
 // RGB Matrix Config
-#define RGB_MATRIX_LED_COUNT 108
+#define RGB_MATRIX_LED_COUNT 109
