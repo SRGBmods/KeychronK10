@@ -70,7 +70,7 @@
         "rows": [ "C15", "D11", "D10", "D9", "D8", "D7"]
     },
     "usb": {
-        "vid": "0x6EF4",
+        "vid": "0x3434",
         "device_version": "1.0.0",
         "wait_for": false
     }
