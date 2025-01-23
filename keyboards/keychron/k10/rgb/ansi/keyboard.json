@@ -1,7 +1,7 @@
 {
     "keyboard_name": "Keychron K10",
     "usb": {
-        "pid": "0x024F"
+        "pid": "0xFE12"
     },
     "layouts": {
         "LAYOUT_ansi": {
