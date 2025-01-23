@@ -2,6 +2,7 @@
  * Copyright 2020 Dimitris Mantzouranis <d3xter93@gmail.com>
  * Copyright 2022 Harrison Chan (Xelus)
  * Copyright 2022 Thomas Bowman Mørch (tbowmo)
+ * Copyright 2025 churipputori
  *
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
