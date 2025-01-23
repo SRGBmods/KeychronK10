@@ -1,12 +1,16 @@
-# Keychron K8
+# Keychron K10
 
-K8 ANSI RGB
+K10 Gateron RGB
+
+Adapted from the Keychron K8 [config](https://github.com/SonixQMK/qmk_firmware/tree/sn32_develop/keyboards/keychron/k8) 
 
 Make example for this keyboard (after setting up your build environment):
 
-    make keychron/k8/rgb/ansi:ansi
-
-* * *
-For more info and detailed flashing instructions, please visit https://github.com/alex-dinh/keychron-k8
+    make keychron/k10/rgb/ansi:ansi
 
 See the [build environment setup](https://docs.qmk.fm/#/getting_started_build_tools) and the [make instructions](https://docs.qmk.fm/#/getting_started_make_guide) for more information. Brand new to QMK? Start with our [Complete Newbs Guide](https://docs.qmk.fm/#/newbs).
+
+## TODO:
+
+- [ ] Test on MacOS
+- [ ] VIA support
