@@ -1,6 +1,6 @@
 # Keychron K10
 
-K10 Gateron RGB
+K10 ANSI RGB
 
 Adapted from the Keychron K8 [config](https://github.com/SonixQMK/qmk_firmware/tree/sn32_develop/keyboards/keychron/k8) 
 
