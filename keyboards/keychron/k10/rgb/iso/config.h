@@ -1,6 +1,7 @@
 /* Copyright 2020 Adam Honse <calcprogrammer1@gmail.com>
  * Copyright 2020 Dimitris Mantzouranis <d3xter93@gmail.com>
  * Copyright 2022 Harrison Chan (Xelus)
+ * Copyright 2025 churipputori
  *
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
@@ -18,3 +19,7 @@
 
 // RGB Matrix Config
 #define RGB_MATRIX_LED_COUNT 109
+
+// Fix for backlight turning on when pressing keys
+// https://github.com/SonixQMK/qmk_firmware/issues/348#issuecomment-1670269459
+#define MATRIX_UNSELECT_DRIVE_HIGH
